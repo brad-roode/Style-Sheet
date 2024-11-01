@@ -1,0 +1,83 @@
+/* Universal Style*/
+
+.container {
+    border: 1px solid black;
+    margin: 10px auto;
+    padding: 10px 10px;
+}
+
+body {
+    font-family: 'Source Code Pro', serif;
+}
+
+h1 {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Header Syle*/
+
+/* Colors Syle*/
+.color-container {
+    
+}
+.color-pannel {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px 5px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.blue {
+    background-color: #0000ff;
+    color: white;
+}
+.green {
+    background-color: #008000;
+}
+.red {
+    background-color: #ff0000;
+}
+.yellow {
+    background-color: #ffff00;
+}
+
+/* Font Syle*/
+.font-pannel {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px 5px;
+    text-align: center;
+}
+.font-name {
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.SCP{
+    font-family: 'Source Code Pro', serif;
+}
+
+.NS {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.P {
+    font-family: 'Poppins', sans-serif;
+}
+
+.plain {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
